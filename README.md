@@ -16,7 +16,7 @@
 
 ## 🌐 Live Demo
 
-👉 **[View Live on Vercel](https://delhi-smart-mobility.vercel.app)**
+👉 **[View Live on Vercel](https://delhi-onetransit.vercel.app**
 
 ### Demo Accounts
 | Role | Email | Password |
